@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Week_10/.idea/Week_10.iml" filepath="$PROJECT_DIR$/../Week_10/.idea/Week_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Week_11/.idea/Week_11.iml" filepath="$PROJECT_DIR$/../Week_11/.idea/Week_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Week_12/.idea/Week_12.iml" filepath="$PROJECT_DIR$/../Week_12/.idea/Week_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Week_13/.idea/Week_13.iml" filepath="$PROJECT_DIR$/../Week_13/.idea/Week_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Week_14/.idea/Week_14.iml" filepath="$PROJECT_DIR$/../Week_14/.idea/Week_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Week_15/.idea/Week_15.iml" filepath="$PROJECT_DIR$/../Week_15/.idea/Week_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Week_2.iml" filepath="$PROJECT_DIR$/.idea/Week_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Week_3/.idea/Week_3.iml" filepath="$PROJECT_DIR$/../Week_3/.idea/Week_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Week_4/.idea/Week_4.iml" filepath="$PROJECT_DIR$/../Week_4/.idea/Week_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Week_5/.idea/Week_5.iml" filepath="$PROJECT_DIR$/../Week_5/.idea/Week_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Week_6/.idea/Week_6.iml" filepath="$PROJECT_DIR$/../Week_6/.idea/Week_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Week_7/.idea/Week_7.iml" filepath="$PROJECT_DIR$/../Week_7/.idea/Week_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Week_8/.idea/Week_8.iml" filepath="$PROJECT_DIR$/../Week_8/.idea/Week_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Week_9/.idea/Week_9.iml" filepath="$PROJECT_DIR$/../Week_9/.idea/Week_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" filepath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" filepath="$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" />
+    </modules>
+  </component>
+</project>
